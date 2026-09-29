@@ -1,10 +1,4 @@
-#include "math/neuron.h"
-
-#define STB_IMAGE_IMPLEMENTATION
-#include "image_headers/stb_image.h"
-
-#define STB_IMAGE_WRITE_IMPLEMENTATION
-#include "image_headers/stb_image_write.h"
+#include "neuron.h"
 
 #include <iostream>
 
